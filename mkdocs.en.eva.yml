@@ -1,7 +1,7 @@
 site_name: Kore ai Docs
 site_author: Kore ai Content Experience Team
 docs_dir: 'docs/eva/'
-site_dir: 'site/eva/'
+site_dir: 'site/ai-for-work/'
 repo_name: Koredotcom/docs
 repo_url: https://github.com/Koredotcom/docs
 extra_css:
